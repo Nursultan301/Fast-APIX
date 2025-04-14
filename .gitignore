@@ -21,6 +21,8 @@ venv
 docs.zip
 archive.zip
 
+*.sqlite3
+
 # vim temporary files
 *~
 .*.sw?
